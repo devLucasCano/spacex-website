@@ -1,6 +1,6 @@
 # SpaceX Website Clone.
 
-<img src="img/screen.png" alt="SpaceX"> <br>
+<img src="img/screen.jpg" alt="SpaceX"> <br>
 
 <hr>
 
