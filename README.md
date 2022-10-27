@@ -1,4 +1,4 @@
-# SpaceX Website Clone.
+# SpaceX Website Clone
 
 <img src="img/screen.jpg" alt="SpaceX"> <br>
 
